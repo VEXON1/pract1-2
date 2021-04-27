@@ -1,0 +1,41 @@
+#brd li{
+	cursor: pointer;
+}
+.z1block {
+	font-weight: bold;
+}
+.z2block {
+	font-style: italic;
+}
+.z3block {
+	color: red;
+}
+.z4block {
+	font-size:12px;
+}
+.z5block {
+	font-size:28px;
+}
+.z6block {
+	font-size:36px;
+}
+.z7block {
+	font-size:72px;
+}
+.selected{
+	background-color:yellow;
+}
+.right-selected{
+	background-color:blue;
+}
+.double-selected{
+	background-color:green;
+}
+#block {
+	background-color: purple;
+	position:absolute;
+	width:25px;
+	height:25px;
+	left: 700px;
+	top:300px;
+}
